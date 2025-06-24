@@ -4,5 +4,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 server:
-    servlet:
-        context-path: /parking-space-service
+  servlet:
+    context-path: /parking-space-service
